@@ -1,0 +1,10 @@
+CARD GUESS – instrukcja publikacji
+
+1. Wgraj CAŁĄ zawartość tego folderu do hostingu (np. Cloudflare Pages).
+2. Plik index.html musi zostać w katalogu głównym.
+3. Po publikacji sprawdź:
+   https://cardguess.pl/
+   https://cardguess.pl/app-ads.txt
+4. Drugi adres musi pokazywać dokładnie jedną linię:
+   google.com, pub-2633071152255452, DIRECT, f08c47fec0942fa0
+5. Przed publikacją uzupełnij stronę kontaktową o swój prawdziwy e-mail, jeżeli chcesz go wyświetlać publicznie.

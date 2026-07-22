@@ -1,0 +1,10 @@
+<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Polityka prywatności – Card Guess</title><style>body{font-family:Arial,sans-serif;max-width:850px;margin:40px auto;padding:0 20px;line-height:1.7;color:#1d1d1f}a{color:#6b21a8}h1,h2{line-height:1.2}</style></head><body>
+<a href="index.html">← Card Guess</a><h1>Polityka prywatności / Privacy Policy</h1>
+<p><strong>Data wejścia w życie:</strong> 22 lipca 2026 r.</p>
+<h2>1. Informacje ogólne</h2><p>Niniejsza polityka opisuje zasady przetwarzania danych w aplikacji Card Guess oraz na stronie cardguess.pl. Aplikacja może korzystać z usług zewnętrznych, takich jak Google Play Services oraz Google AdMob.</p>
+<h2>2. Dane i reklamy</h2><p>Dostawcy zewnętrzni mogą przetwarzać identyfikatory urządzenia, dane diagnostyczne, przybliżoną lokalizację i informacje o interakcji z reklamami zgodnie z własnymi politykami prywatności. Card Guess nie sprzedaje danych osobowych użytkowników.</p>
+<h2>3. Dzieci</h2><p>Aplikacja nie jest kierowana do dzieci poniżej wieku wymaganego przez lokalne prawo do samodzielnego wyrażenia zgody na przetwarzanie danych.</p>
+<h2>4. Bezpieczeństwo</h2><p>Stosujemy rozsądne środki organizacyjne i techniczne, ale żadna metoda przesyłania danych nie gwarantuje pełnego bezpieczeństwa.</p>
+<h2>5. Kontakt</h2><p>W sprawach prywatności skontaktuj się z nami poprzez dane umieszczone na stronie kontaktowej.</p>
+<hr><h2>English summary</h2><p>This policy explains how Card Guess and cardguess.pl handle information. Third-party services such as Google Play Services and Google AdMob may process device identifiers, diagnostics, approximate location and advertising interaction data under their own privacy policies. Card Guess does not sell users' personal data.</p>
+</body></html>
